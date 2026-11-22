@@ -1,0 +1,8 @@
+{
+  "module": "Development.AbelianVarietyTheory.Proofs.SiegelThetaTransformation.SchwartzBruhatIntegralEqSumResidueRepresentative",
+  "source_sha256": "c57351849c4badc1fdf17a568b303cf888df33799b8c2854aeb92874c6e1625b",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "unchanged",
+  "evidence": "https://github.com/UnityChaos/alpoge-rh-replay/releases/download/port-UnityChaos-b2-lean436/UnityChaos-b2-receipt.json"
+}
