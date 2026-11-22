@@ -1,0 +1,11 @@
+--- a/src/GroundTheory/GlobalFields/SemilocalAlgebras/InfiniteAdele.lean
++++ b/src/GroundTheory/GlobalFields/SemilocalAlgebras/InfiniteAdele.lean
+@@ -72,7 +72,7 @@
+ theorem continuous_infiniteAdeleRingMap :
+     Continuous (infiniteAdeleRingMap (K := K) (L := L)) :=
+   continuous_pi fun w =>
+-    (NumberField.LiesOver.continuous_completionMap (v := w.comap (algebraMap K L)) (w := w)).comp
++    (continuous_algebraMap (w.comap (algebraMap K L)).Completion w.Completion).comp
+       (continuous_apply (w.comap (algebraMap K L)))
+ 
+ omit [NumberField K] [NumberField L] in

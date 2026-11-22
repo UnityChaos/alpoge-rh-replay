@@ -1,0 +1,8 @@
+{
+  "module": "GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.ConeBall",
+  "source_sha256": "94d1786488ecf3bd2a393a52c65a69f49289dd091b03867e4fb4a247d52929a0",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "unchanged",
+  "evidence": "https://github.com/UnityChaos/alpoge-rh-replay/releases/download/port-P0160-issue-34379-lean436/P0160-receipt.json"
+}

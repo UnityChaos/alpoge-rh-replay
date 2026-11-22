@@ -1,0 +1,8 @@
+{
+  "module": "GroundTheory.GlobalFields.SemilocalAlgebras.InfiniteAdele",
+  "source_sha256": "f358af4a87e4612649bd554ea7d270ec10e780c7fd0070fbad35cadb93eac555",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "Proof-only: NumberField.LiesOver.continuous_completionMap is now a deprecated alias of AbsoluteValue.Completion.continuous_map with absolute-value arguments. The map in infiniteAdeleRingMap is the `algebraMap` between the two completions, so its continuity is taken from continuous_algebraMap with the scoped ContinuousSMul instance of NumberField.LiesOver. The definition of infiniteAdeleRingMap is unchanged.",
+  "evidence": "https://github.com/UnityChaos/alpoge-rh-replay/releases/download/port-P0160-issue-34379-lean436/P0160-receipt.json"
+}

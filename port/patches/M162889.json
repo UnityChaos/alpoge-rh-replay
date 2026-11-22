@@ -1,0 +1,8 @@
+{
+  "module": "GroundTheory.AutomorphicForms.RestrictedAddHaarProduct",
+  "source_sha256": "cc05023bd8f6710a7b2ba90d4d873d8bb0dc0fda68c75c855a40603e82bf4bec",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "Proof-only: the subset fact fed to `inter_eq_left` is stated first as `hsub : W ∩ S.pi (fun i ↦ (C i : Set (G i))) = W`; written inline, the target elaborator leaves the set in set-builder form, which `rw` no longer finds in the goal. The module's `projMeasure` is a `Measure.map` along `proj C T`, which is continuous between Borel spaces and therefore measurable, so the pinned and target values of `Measure.map` agree for it.",
+  "evidence": "https://github.com/UnityChaos/alpoge-rh-replay/releases/download/port-P0160-issue-34379-lean436/P0160-receipt.json"
+}

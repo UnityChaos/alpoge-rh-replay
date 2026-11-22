@@ -1,0 +1,8 @@
+{
+  "module": "GroundTheory.AutomorphicForms.SatakeSymmetric",
+  "source_sha256": "41a354faad35acfc7ddc8c3b4b4b504d04f7c04b9c7123f5a6ae4a4f542a807d",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "unchanged",
+  "evidence": "https://github.com/UnityChaos/alpoge-rh-replay/releases/download/port-P0160-issue-34379-lean436/P0160-receipt.json"
+}

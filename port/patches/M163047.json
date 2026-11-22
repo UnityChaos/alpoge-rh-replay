@@ -1,0 +1,8 @@
+{
+  "module": "GroundTheory.GlobalFields.Artin.MemInvariantsCompSubtypeIff",
+  "source_sha256": "8a6745db36ab34e685754910cde81cd6f83a6a38c1100c83334b65b8be1d8e81",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "unchanged",
+  "evidence": "https://github.com/UnityChaos/alpoge-rh-replay/releases/download/port-P0160-issue-34379-lean436/P0160-receipt.json"
+}

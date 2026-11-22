@@ -1,0 +1,8 @@
+{
+  "module": "GroundTheory.AutomorphicForms.GKModules.LieAlgebra",
+  "source_sha256": "a354fdd4eeb0540ee7d7df6d4e191e4997d9a3cb24708ae42635612e6a484411",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "unchanged",
+  "evidence": "https://github.com/UnityChaos/alpoge-rh-replay/releases/download/port-P0160-issue-34379-lean436/P0160-receipt.json"
+}

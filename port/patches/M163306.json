@@ -1,0 +1,8 @@
+{
+  "module": "GroundTheory.GlobalFields.SemilocalAlgebras.LocalDegree",
+  "source_sha256": "611166276ee4843266088b1896a9578d63a3a5ee297595be1e51ff2154235d75",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "Proof-only: Ideal.ramificationIdx_pos now takes the base ring before the ideal (three uses).",
+  "evidence": "https://github.com/UnityChaos/alpoge-rh-replay/releases/download/port-P0160-issue-34379-lean436/P0160-receipt.json"
+}
