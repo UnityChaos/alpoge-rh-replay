@@ -1,0 +1,8 @@
+{
+  "module": "Development.AbelianVarietyTheory.Proofs.ThetaLawProofs.DiscrEqJacobianOfIntegralPoints",
+  "source_sha256": "50022221ada7ebe57aa242bf2b95d092d3c7b21a2e6679c5687c3aaeec6ba6ee",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "Statement: MvPowerSeries.pderiv O j (F i) is written MvPowerSeries.pderiv (R := O) j (F i). The coefficient ring was an explicit argument of MvPowerSeries.pderiv in the pinned Mathlib (declared under `variable (R) in`) and is implicit on the target; the definition is otherwise identical in both, so the statement denotes the same term. The proof is unchanged.",
+  "evidence": "https://github.com/UnityChaos/alpoge-rh-replay/releases/download/port-UnityChaos-b2-lean436/UnityChaos-b2-receipt.json"
+}
