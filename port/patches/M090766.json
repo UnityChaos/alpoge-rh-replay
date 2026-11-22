@@ -1,0 +1,8 @@
+{
+  "module": "Development.AbelianVarietyTheory.Proofs.ThetaLawProofs.KoszulExactOfGradedRegularStatement",
+  "source_sha256": "03b8ee8dd4babcb826c3a0469fc8885d430d88e33d143143949a5de5f55c9c7f",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "unchanged",
+  "evidence": "https://github.com/UnityChaos/alpoge-rh-replay/releases/download/port-UnityChaos-b2-lean436/UnityChaos-b2-receipt.json"
+}
