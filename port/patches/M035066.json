@@ -1,0 +1,8 @@
+{
+  "module": "Development.AbelianVarietyTheory.Proofs.DivisorProofs.HeckeYDerivativeTermHasFDerivUpperHalfPlane",
+  "source_sha256": "514256a63a367e184a51e136b56fceb979afda403c1745fb3183983f3ab55746",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "Proof-only: HasFDerivAt.finset_prod was renamed HasFDerivAt.finsetProd.",
+  "evidence": "https://github.com/UnityChaos/alpoge-rh-replay/releases/download/port-P0245-issue-32821-lean436/P0245-receipt.json"
+}

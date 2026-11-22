@@ -1,0 +1,8 @@
+{
+  "module": "Development.AbelianVarietyTheory.Proofs.DivisorProofs.Hilbert90LocalOfCocycleTensor",
+  "source_sha256": "5c9c6d4d459456fc5097fee1e6bf9fa892c8d2f30c843de4668e39f62d2ffdd9",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "unchanged",
+  "evidence": "https://github.com/UnityChaos/alpoge-rh-replay/releases/download/port-P0245-issue-32821-lean436/P0245-receipt.json"
+}
