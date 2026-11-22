@@ -1,0 +1,8 @@
+{
+  "module": "Development.AbelianVarietyTheory.Proofs.SatakeParameters.FreeOnCechNerveExactAt",
+  "source_sha256": "9631efe7cd71c0cee2d339536735b89daa91d8bdc10916d543c4bf3e569eb15c",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "Proof-only: ULift.ext takes its two terms implicitly on the target, so the four explicit `_ _` placeholders passed to it are dropped. No statement, definition or import changes.",
+  "evidence": "https://github.com/UnityChaos/alpoge-rh-replay/releases/download/port-P0195-UnityChaos-b1-lean436/P0195-UnityChaos-b1-receipt.json"
+}
