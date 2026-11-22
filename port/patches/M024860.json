@@ -1,0 +1,8 @@
+{
+  "module": "Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsDvdMulPowEtaleNbhdZeroLocusStatement",
+  "source_sha256": "8ab1af44f879b6c15a58a5a6744926f3ff9b6f9605ee79adb8ffefb3ffc8a31d",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "unchanged",
+  "evidence": "https://github.com/UnityChaos/alpoge-rh-replay/releases/download/port-UnityChaos-b2-lean436/UnityChaos-b2-receipt.json"
+}
