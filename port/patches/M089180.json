@@ -1,0 +1,8 @@
+{
+  "module": "Development.AbelianVarietyTheory.Proofs.SatakeParameters.QuadraticExistsIntegralGeneratorCommonDenominatoStatement",
+  "source_sha256": "08d2080f0f76717394f38159d04448fc9b61590e7356132ba861646e2b6344b0",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "unchanged",
+  "evidence": "https://github.com/UnityChaos/alpoge-rh-replay/releases/download/port-P0195-UnityChaos-b1-lean436/P0195-UnityChaos-b1-receipt.json"
+}
