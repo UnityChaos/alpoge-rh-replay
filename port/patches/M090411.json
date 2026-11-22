@@ -1,0 +1,8 @@
+{
+  "module": "Development.AbelianVarietyTheory.Proofs.SiegelThetaTransformation.SymplecticEqParabolicJParabolicJParabolicStatement",
+  "source_sha256": "a3de2b329c0da07091c67b50054b2456ff02b1bd574ca6af8db12222ae33e990",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "unchanged",
+  "evidence": "https://github.com/UnityChaos/alpoge-rh-replay/releases/download/port-UnityChaos-b2-lean436/UnityChaos-b2-receipt.json"
+}
