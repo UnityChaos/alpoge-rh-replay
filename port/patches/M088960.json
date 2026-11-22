@@ -1,0 +1,8 @@
+{
+  "module": "Development.AbelianVarietyTheory.Proofs.SatakeParameters.OpOfAevalExists",
+  "source_sha256": "7183d8981edfea97c4bc61431699e8859ce28f5c98656862bea235ce9d9dc4a6",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "unchanged",
+  "evidence": "https://github.com/UnityChaos/alpoge-rh-replay/releases/download/port-P0195-UnityChaos-b1-lean436/P0195-UnityChaos-b1-receipt.json"
+}
