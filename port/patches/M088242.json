@@ -1,0 +1,8 @@
+{
+  "module": "Development.AbelianVarietyTheory.Proofs.SatakeParameters.IsNoetherianRingOfDirectedPureUnion",
+  "source_sha256": "a47cafca9e82c72c869392a7bfe5dcbb51879fc6621605205dff3da88fdb4b1c",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "Proof-only: Ideal.iInf_pow_smul_eq_bot_of_le_jacobson now takes m ≤ Ring.jacobson T; the existing hypothesis m ≤ Ideal.jacobson ⊥ is converted with Ideal.jacobson_bot. No statement, definition or import changes.",
+  "evidence": "https://github.com/UnityChaos/alpoge-rh-replay/releases/download/port-P0195-UnityChaos-b1-lean436/P0195-UnityChaos-b1-receipt.json"
+}

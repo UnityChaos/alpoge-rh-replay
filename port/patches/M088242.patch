@@ -1,0 +1,11 @@
+--- a/src/Development/AbelianVarietyTheory/Proofs/SatakeParameters/IsNoetherianRingOfDirectedPureUnion.lean
++++ b/src/Development/AbelianVarietyTheory/Proofs/SatakeParameters/IsNoetherianRingOfDirectedPureUnion.lean
+@@ -31,7 +31,7 @@
+       rw [← hpure (Ideal.span {y * z + 1}), Ideal.map_span, Set.image_singleton,
+         Ideal.span_singleton_eq_top.mpr hunit, Ideal.comap_top]
+     exact Ideal.span_singleton_eq_top.mp h2
+-  have hK := Ideal.iInf_pow_smul_eq_bot_of_le_jacobson (M := T ⧸ A) m hjac
++  have hK := Ideal.iInf_pow_smul_eq_bot_of_le_jacobson (M := T ⧸ A) m (hjac.trans_eq Ideal.jacobson_bot)
+   have hxn : ∀ n : ℕ, x ∈ A ⊔ m ^ n := by
+     intro n
+     have h := hx n
