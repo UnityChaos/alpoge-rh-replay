@@ -1,0 +1,8 @@
+{
+  "module": "Development.AbelianVarietyTheory.Proofs.SatakeParameters.ExistsTensorPadicIntEquivAdjoinOfFreeFiniteStatement",
+  "source_sha256": "e913a919917abf5ecee043d77b5d780236eb4ae4fb1088e81a0a5593fd586593",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "unchanged",
+  "evidence": "https://github.com/UnityChaos/alpoge-rh-replay/releases/download/port-P0195-UnityChaos-b1-lean436/P0195-UnityChaos-b1-receipt.json"
+}
