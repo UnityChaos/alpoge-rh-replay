@@ -1,0 +1,8 @@
+{
+  "module": "Development.AbelianVarietyTheory.Proofs.SatakeParameters.GeneralLinearTransitiveOnLatticesOverDVRStatement",
+  "source_sha256": "351abd146b96c07b71897c2ef26494d7de29cfaf843acb17e45ffc03fad03cad",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "Statement: Submodule.IsLattice K becomes Submodule.IsFullLattice K, as PORTING.md requires. Mathlib #44365 renamed the pinned IsLattice (finitely generated and spanning) to IsFullLattice and reused the name for a weaker notion without span_eq_top; K is the fraction field of the DVR O here, so IsFullLattice is the pinned meaning. This matches the landed port of the import M087832 (gl_transitive_lattices), which the unchanged proof applies.",
+  "evidence": "https://github.com/UnityChaos/alpoge-rh-replay/releases/download/port-P0195-UnityChaos-b1-lean436/P0195-UnityChaos-b1-receipt.json"
+}
