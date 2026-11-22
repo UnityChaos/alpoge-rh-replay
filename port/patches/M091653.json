@@ -1,0 +1,8 @@
+{
+  "module": "Development.AbelianVarietyTheory.Proofs.TorusHaarMeasure.NormDetSubmatrixSqLeDetGram",
+  "source_sha256": "dec36c60d7bd2e37d6b0adc77a73d5c764a2cd6f73f80b511bec2a0cefeffea1",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "unchanged",
+  "evidence": "https://github.com/UnityChaos/alpoge-rh-replay/releases/download/port-UnityChaos-b2-lean436/UnityChaos-b2-receipt.json"
+}
