@@ -1,0 +1,8 @@
+{
+  "module": "Development.AbelianVarietyTheory.Proofs.SatakeParameters.LengthQuotientSmulLeFinrankOfEmbedding",
+  "source_sha256": "071e949b2329a1c7a5c45043f01a2af82738317074d0651321375473c2df2df9",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "unchanged",
+  "evidence": "https://github.com/UnityChaos/alpoge-rh-replay/releases/download/port-P0195-UnityChaos-b1-lean436/P0195-UnityChaos-b1-receipt.json"
+}
